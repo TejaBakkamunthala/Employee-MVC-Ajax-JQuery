@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|f:\\dotnetprogramss\\employeepayrollajaxandjquery\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|solutionrelative:wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|f:\\dotnetprogramss\\employeepayrollajaxandjquery\\views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|solutionrelative:views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|f:\\dotnetprogramss\\employeepayrollajaxandjquery\\controllers\\ajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|solutionrelative:controllers\\ajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|f:\\dotnetprogramss\\employeepayrollajaxandjquery\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|f:\\dotnetprogramss\\employeepayrollajaxandjquery\\context\\employeepayrollcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|solutionrelative:context\\employeepayrollcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|f:\\dotnetprogramss\\employeepayrollajaxandjquery\\migrations\\employeepayrollcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|solutionrelative:migrations\\employeepayrollcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|f:\\dotnetprogramss\\employeepayrollajaxandjquery\\entity\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|solutionrelative:entity\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|f:\\dotnetprogramss\\employeepayrollajaxandjquery\\repository\\employeerl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|solutionrelative:repository\\employeerl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|f:\\dotnetprogramss\\employeepayrollajaxandjquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|f:\\dotnetprogramss\\employeepayrollajaxandjquery\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|solutionrelative:wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|f:\\dotnetprogramss\\employeepayrollajaxandjquery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E4103B7-AE3F-4A0D-872A-9291813DB850}|EmployeePayRollAjaxAndJQuery.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AjaxController.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\Controllers\\AjaxController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AjaxController.cs",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\Controllers\\AjaxController.cs",
+              "RelativeToolTip": "Controllers\\AjaxController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwFcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:29:56.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "custom.js",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\wwwroot\\js\\custom.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\custom.js",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\wwwroot\\js\\custom.js",
+              "RelativeToolTip": "wwwroot\\js\\custom.js",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswGAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-14T11:18:48.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\Views\\Ajax\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ajax\\Index.cshtml",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\Views\\Ajax\\Index.cshtml",
+              "RelativeToolTip": "Views\\Ajax\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADkAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T09:52:36.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-15T08:41:00.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeePayRollContext.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\Context\\EmployeePayRollContext.cs",
+              "RelativeDocumentMoniker": "Context\\EmployeePayRollContext.cs",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\Context\\EmployeePayRollContext.cs",
+              "RelativeToolTip": "Context\\EmployeePayRollContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:56:13.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeePayRollContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\Migrations\\EmployeePayRollContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\EmployeePayRollContextModelSnapshot.cs",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\Migrations\\EmployeePayRollContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\EmployeePayRollContextModelSnapshot.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:09:27.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:25:13.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "jquery.js",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AQIAAOUBAAAAAAAAAAAAwOwBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-14T12:52:17.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeEntity.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\Entity\\EmployeeEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\EmployeeEntity.cs",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\Entity\\EmployeeEntity.cs",
+              "RelativeToolTip": "Entity\\EmployeeEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:41:16.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\Repository\\EmployeeRL.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\Repository\\EmployeeRL.cs",
+              "RelativeToolTip": "Repository\\EmployeeRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:09:29.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRollAjaxAndJQuery\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T11:00:06.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
